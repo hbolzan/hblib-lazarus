@@ -1,0 +1,11 @@
+object FormHbWindowsMsg: TFormHbWindowsMsg
+  Left = 383
+  Height = 132
+  Top = 110
+  Width = 206
+  Caption = 'FormHbWindowsMsg'
+  Font.Height = -12
+  Font.Name = 'Verdana'
+  OnCreate = FormCreate
+  LCLVersion = '1.6.2.0'
+end
